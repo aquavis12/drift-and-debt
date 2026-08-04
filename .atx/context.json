@@ -1,1 +1,27 @@
-
+{
+  "phase": "discovery",
+  "discovery": {
+    "completedAt": "2026-08-04T00:00:00Z",
+    "components": 3,
+    "discoveryFile": ".atx/discovery.json"
+  },
+  "assessment": {
+    "completedAt": null,
+    "workspaceId": null,
+    "jobId": null,
+    "reportDir": ".atx/assessment-report/"
+  },
+  "spec": {
+    "folder": ".kiro/specs/aws-transform",
+    "requirementsApproved": false,
+    "tasksGenerated": false
+  },
+  "workStyle": null,
+  "execution": {
+    "currentTask": null,
+    "completedTasks": [],
+    "workspaceId": null,
+    "activeJobIds": []
+  },
+  "updatedAt": "2026-08-04T00:00:00Z"
+}
