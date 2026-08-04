@@ -1,1 +1,16 @@
-
+{
+  "name": "drift-and-debt-node-service",
+  "version": "0.1.0",
+  "description": "internal reporting proxy, ported from an even older PHP thing",
+  "main": "server.js",
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "express": "4.16.4",
+    "request": "2.88.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
