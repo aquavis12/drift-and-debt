@@ -1,0 +1,27 @@
+{
+  "phase": "planning",
+  "discovery": {
+    "completedAt": "2026-08-04T00:00:00Z",
+    "components": 3,
+    "discoveryFile": ".atx/discovery.json"
+  },
+  "assessment": {
+    "completedAt": "2026-08-04T17:58:00Z",
+    "workspaceId": "733e4c6e-d162-4455-9260-75c95efd08d2",
+    "jobId": "f486d717-5737-4059-959a-c8403806a996",
+    "reportDir": ".atx/assessment-report/"
+  },
+  "spec": {
+    "folder": ".kiro/specs/aws-transform",
+    "requirementsApproved": true,
+    "tasksGenerated": true
+  },
+  "workStyle": null,
+  "execution": {
+    "currentTask": "1",
+    "completedTasks": [],
+    "workspaceId": "733e4c6e-d162-4455-9260-75c95efd08d2",
+    "activeJobIds": ["f486d717-5737-4059-959a-c8403806a996"]
+  },
+  "updatedAt": "2026-08-04T17:58:00Z"
+}
